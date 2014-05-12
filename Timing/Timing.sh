@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#test 4
+#test 5
 # Functions
 ######################################################
 GetStartTime() {

@@ -1,4 +1,4 @@
-test 1
+test 2
 CREATE DATABASE "Alpha"
   WITH ENCODING='UTF8'
        CONNECTION LIMIT=-1;

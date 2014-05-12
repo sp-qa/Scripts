@@ -46,3 +46,5 @@ then
         echo "Users have been added to security group: Testers"
 fi
 
+Mon May 12 13:29:38 EDT 2014
+Mon May 12 13:30:27 EDT 2014

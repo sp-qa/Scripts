@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test 1
 GetSCMInfo() {
 GotInfo=0 # SCM variables have not been set
 printf "Enter Surround username [Administrator]: "

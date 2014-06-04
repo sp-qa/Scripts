@@ -27,6 +27,7 @@ BEGIN
                               || ' "'
                               || cur_rec.object_name
                               || '" FORCE';
+blah
          ELSE
             EXECUTE IMMEDIATE    'DROP '
                               || cur_rec.object_type

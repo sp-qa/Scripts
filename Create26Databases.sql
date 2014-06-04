@@ -1,3 +1,4 @@
+blah
 test 3
 CREATE DATABASE "Alpha"
   WITH ENCODING='UTF8'

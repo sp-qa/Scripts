@@ -1,4 +1,5 @@
 test1
+test2 
 blah
 test 3
 CREATE DATABASE "Alpha"

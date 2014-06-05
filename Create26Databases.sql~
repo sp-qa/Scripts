@@ -2,6 +2,7 @@ blah
 test 3
 CREATE DATABASE "Alpha"
   WITH ENCODING='UTF8'
+test
        CONNECTION LIMIT=-1;
 CREATE DATABASE "Bravo"
 test

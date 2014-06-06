@@ -1,5 +1,5 @@
 #!/bin/bash
-#test
+#test 2
 clear
 echo "Enter name of text file (do not add extension):"
 echo "If file exists, it will be replaced."

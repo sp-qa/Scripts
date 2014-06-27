@@ -8,7 +8,7 @@ CREATE DATABASE "Alpha"
 test
        CONNECTION LIMIT=-1;
 CREATE DATABASE "Bravo"
-test
+test case
   WITH ENCODING='UTF8'
        CONNECTION LIMIT=-1;
 CREATE DATABASE "Charlie"

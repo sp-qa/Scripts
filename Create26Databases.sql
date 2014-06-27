@@ -1,7 +1,7 @@
 test1
 scooby dooby doo
 test2 
-blah
+blah test
 test 3
 CREATE DATABASE "Alpha"
   WITH ENCODING='UTF8'
